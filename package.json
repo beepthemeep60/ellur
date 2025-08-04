@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "@distube/ytdl-core": "^4.16.12",
+    "distube": "^4.1.1",
+    "opusscript": "^0.1.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
